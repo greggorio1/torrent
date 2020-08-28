@@ -1,28 +1,38 @@
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]1° Temporada [/B][/COLOR] DB </title>
+<title>[COLOR yellow][B]1° Temporada[/B][/COLOR] DB </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c29fa01f1c7996a30b2e278133d2efedadf21a0</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cccc8ddfdafdd66ae8c79c964eff0a9724331e1</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b8/13_Reasons_Why_Temporada_1_Poster.jpg</thumbnail>
-<info>[I] [/I]</info>
+<thumbnail>https://image.tmdb.org/t/p/w342/kTzJ5PrPTZVjLoKeiiShl5Z8Owf.jpg</thumbnail>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
-<item>
-<title>[COLOR yellow][B]2° Temporada [/B][/COLOR] DB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dfb90869d5f357b03548b3d7ea14c6b8b3c9677</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/28/13_Reasons_Why_Temporada_2_Poster.jpg</thumbnail>
-<info>[I] [/I]</info>
+<info>[COLOR red]Sinopse[/COLOR]:  A história acompanha Clay Jensen que, ao voltar da escola, encontra uma caixa misteriosa com seu nome na porta de casa. Dentro dela, ele encontra fitas-cassetes gravadas por Hannah Baker – sua colega de classe e paixão secreta – que cometera suicídio duas semanas antes. Nas fitas, Hannah explica as treze razões que a levaram à decisão de acabar com a própria vida. Será que Clay foi uma delas?</info>
+</item>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]3° Temporada [/B][/COLOR] DB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cabbb223c9cc03cdf8e6ab6a3deb1021cc49b2b2</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fe/Poster_13_reasons_why_3_temporada.jpg</thumbnail>
-<info>[I] [/I]</info>
+<title>[COLOR yellow][B]2° Temporada [/B][/COLOR] DB </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:171a87b308d014294f23ff3ead070468fb7f18c4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rNBlSSSpKdHntdZJJJ5cSAKfWhv.jpg</thumbnail>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+<info>[COLOR red]Sinopse[/COLOR]: 
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B] 4°Temporada [/B][/COLOR] DB</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11a888432abc1895ddd14b7b1a76d71c4a752995</link>
-<thumbnail>https://cdn-ofuxico.akamaized.net/img/upload/noticias/2020/06/03/13-reasons-why_379181_36.jpg</thumbnail>
-<info>[I] [/I]</info>
+<title>[COLOR yellow][B]3° Temporada [/B][/COLOR] DB  </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98ea955371188397f6b35d4ce93104d22273c90f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pJEAehCJHGm5lO1KK99h8gVC39G.jpg</thumbnail>
+
+<info>[COLOR red]Sinopse[/COLOR]: 
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]4° Temporada [/B][/COLOR] LG  </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6edbdaa04b9c7695e584a183c16c29368cd13cb4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rYERgBFelEHzthx7AdOR6zaSHtb.jpg</thumbnail>
+
+<info>[COLOR red]Sinopse[/COLOR]: 
+</info>
+</item>
