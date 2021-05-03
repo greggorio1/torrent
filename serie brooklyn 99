@@ -57,24 +57,20 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]7ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33448db1badd3c98fd00275bb7bdf8575309343c$$lsname=[COLOR yellow]Episodio 1[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31b7e9aac4fc05d7d559cbe7cc325fbcc3e64ef6$$lsname=[COLOR yellow]Episodio 2[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3582913b797998d1ea4964db834255db30bda028$$lsname=[COLOR yellow]Episodio 3[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:329b346475de8d5f28663ecca939ebc0d29ae94f$$lsname=[COLOR yellow]Episodio 4[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1ca462d3e2d0a34e9a207f2aa29c35b5ce70c8$$lsname=[COLOR yellow]Episodio 5[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3738f151a7eb0d41fef71e2fb21ce964dcf90d$$lsname=[COLOR yellow]Episodio 6[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0575433deda658edffffeb1e98a084c36182cd57$$lsname=[COLOR yellow]Episodio 7[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecebb188a0cfe46556e875756c586658127be394$$lsname=[COLOR yellow]Episodio 8[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c32a512503cfb4efd72c93603bc60b4033049b2a$$lsname=[COLOR yellow]Episodio 9[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0ca6ea204583644c04ad2ea9ba12809c0525da8$$lsname=[COLOR yellow]Episodio 10[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f6775bf769f22353ce66160a098c82a0f6f7309$$lsname=[COLOR yellow]Episodio 11[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e300b31ecc2f1438399158a075d28157750299d$$lsname=[COLOR yellow]Episodio 12[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df9f27c9497792e6939ec0335b9e23848242f1a4$$lsname=[COLOR yellow]Episodio 13[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33448db1badd3c98fd00275bb7bdf8575309343c </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31b7e9aac4fc05d7d559cbe7cc325fbcc3e64ef6 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3582913b797998d1ea4964db834255db30bda028 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:329b346475de8d5f28663ecca939ebc0d29ae94f </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1ca462d3e2d0a34e9a207f2aa29c35b5ce70c8 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3738f151a7eb0d41fef71e2fb21ce964dcf90d </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0575433deda658edffffeb1e98a084c36182cd57 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecebb188a0cfe46556e875756c586658127be394 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c32a512503cfb4efd72c93603bc60b4033049b2a </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0ca6ea204583644c04ad2ea9ba12809c0525da8 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f6775bf769f22353ce66160a098c82a0f6f7309 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e300b31ecc2f1438399158a075d28157750299d </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df9f27c9497792e6939ec0335b9e23848242f1a4 </link>
 <thumbnail>https://image.tmdb.org/t/p/w342/mWWqh0Knb01YSY0bZaCX4mEIJJO.jpg</thumbnail>
 <genre></genre>
 
 </item> 
-
-
-
-
