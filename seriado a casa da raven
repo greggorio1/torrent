@@ -1,11 +1,11 @@
 ///////CASA DA RAVEN
 <item>
 <title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c07cf6cf04706abc4895a13d46f06d118544734$$lsname=Episodio 1 e 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d2fc9773a36b43227edee33fd037312910c46ff$$lsname=Episodio 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d7395cea2531f2f7798d879b3b6dce021faa438$$lsname=Episodio 4 e 5</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0b2fe731eaf3319a067c0aca8ecfaac11d2113f$$lsname=Episodio 6 e 7</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feb4bc1eda5a16407fcc1e538e4b733b360b0119$$lsname=Episodio 8 e 13</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c07cf6cf04706abc4895a13d46f06d118544734lsname=Episodio 1 e 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d2fc9773a36b43227edee33fd037312910c46fflsname=Episodio 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d7395cea2531f2f7798d879b3b6dce021faa438lsname=Episodio 4 e 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0b2fe731eaf3319a067c0aca8ecfaac11d2113flsname=Episodio 6 e 7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feb4bc1eda5a16407fcc1e538e4b733b360b0119lsname=Episodio 8 e 13</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/e8ntXD3siE0NAYwnTGncwKpIGLz.jpg</thumbnail>
 <genre></genre>
 </item>
