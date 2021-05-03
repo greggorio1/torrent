@@ -14,10 +14,17 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf8bbf97dfe009108a741d5871038a93d5184de9$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b18a1003f06b97721c8ce5e22fa9d59f23ddb96f$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b86054029cfab94c944ec44ad37d93df08bd4fd$$lsname=Episodio </link>
+<title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] - Legendada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83a7aa71d91d213dceac5615161abc5e2a1c840</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8QFssOwaWZ3eB60cGwDpfrZBscv.jpg</thumbnail>
+<genre></genre>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B]4ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e4221e1275d2f55718b3d5a52515fa33f361e8</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/jtLB7xJKcbekmOYkb5NZditBsgk.jpg</thumbnail>
 <genre></genre>
 </item>
