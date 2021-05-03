@@ -15,10 +15,10 @@
 
 <item>
 <title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:077261adf8a76d9e2ac5fc31f1786a2b4fee4d50$$lsname=Episodio 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e15dae861d1e577ce7da46ea4b71e167e47e554b$$lsname=Episodio 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3902aaa928482e0966fdcaca77ad699e093754f$$lsname=Episodio 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68b25fb04e2524a37f710567c647811dc07d22c5$$lsname=Episodio 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:077261adf8a76d9e2ac5fc31f1786a2b4fee4d50</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e15dae861d1e577ce7da46ea4b71e167e47e554b</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3902aaa928482e0966fdcaca77ad699e093754f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68b25fb04e2524a37f710567c647811dc07d22c5</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tZrBtmZANKKuCjgKMKXqOGzVNBD.jpg</thumbnail>
 <genre></genre>
 </item>
