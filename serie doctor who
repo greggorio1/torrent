@@ -65,41 +65,41 @@
 
 <item>
 <title>[COLOR yellow][B]10ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:852cd38d9ae2c75dd21495e7ed8ce4d45ea47890$$lsname=Episodio 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbe659be624da5bdba9840e6dee83f6339ca9308$$lsname=Episodio 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9a29e261b808b7121321ed26b43d57d62365490$$lsname=Episodio 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0681bc05142d4c858eaf2df21c1beebf51e0acd8$$lsname=Episodio 4 ao 6<link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:852cd38d9ae2c75dd21495e7ed8ce4d45ea47890 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbe659be624da5bdba9840e6dee83f6339ca9308 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9a29e261b808b7121321ed26b43d57d62365490 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0681bc05142d4c858eaf2df21c1beebf51e0acd8 <link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8HPLQQqTPfy7Oiligw9FXcfig9w.jpg</thumbnail>
 <genre></genre>
 </item>
 
 <item>
 <title>[COLOR yellow][B]11ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:064ee54db88f8ecc1e7b13bd766c361005139b4a$$lsname=Episodio 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4fb82b252219798a41ead9bceb1b9a8d163ba2c$$lsname=Episodio 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b43b85a9dda8a87708b7745bc49f43b77f50218$$lsname=Episodio 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4d937541e3335576d15aa76a2a9d5334a38f1f3$$lsname=Episodio 4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fac6d45132982fe13ab571851ef2a3bcfaf96836$$lsname=Episodio 5</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92088d499912ddd8d6a838aca57f19b732e6c232$$lsname=Episodio 6</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b4e85a9a1ab36535ffa432a0096d127990d8c4a$$lsname=Episodio 7</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c316cef2bc21a44e891053863d40f6489179159$$lsname=Episodio 8</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36be11fdfe685251e017a1f84fe4c3dbd7de1ce5$$lsname=Episodio 9</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:187ffca93c7640e84e8567fc25d70d9cbf3d31f1$$lsname=Episodio 10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:064ee54db88f8ecc1e7b13bd766c361005139b4a </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4fb82b252219798a41ead9bceb1b9a8d163ba2c </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b43b85a9dda8a87708b7745bc49f43b77f50218 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4d937541e3335576d15aa76a2a9d5334a38f1f3 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fac6d45132982fe13ab571851ef2a3bcfaf96836 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92088d499912ddd8d6a838aca57f19b732e6c232 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b4e85a9a1ab36535ffa432a0096d127990d8c4a </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c316cef2bc21a44e891053863d40f6489179159 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36be11fdfe685251e017a1f84fe4c3dbd7de1ce5 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:187ffca93c7640e84e8567fc25d70d9cbf3d31f1 </link>
 <thumbnail></thumbnail>
 <genre></genre>
 </item>
 
 <item>
 <title>[COLOR yellow][B]12ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4192463561efc886cd36cfd4b51d8843a5eafac$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47247816b7e1c28288430db3be164a74fda69282$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbcd4ffa78aaf44332c5bfa175b550b45a0d76fc$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8730a4fefd93d3bc5e1345f06fff3c4123afa94$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4833df32e5c5613e1fbbf0e1577250311f9cd34$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d0a9899602526b249582c8083c147b7c8437025$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77f21b6e83d73d0065ae1206ab28f010377c6651$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7d85fe5e0226b6379033c8b2ab4cf9930edd0d8$$lsname=Episodio </link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7cb18b201a796fdbd6077baf8e57cad12d44241$$lsname=Episodio </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4192463561efc886cd36cfd4b51d8843a5eafac </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47247816b7e1c28288430db3be164a74fda69282 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbcd4ffa78aaf44332c5bfa175b550b45a0d76fc </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8730a4fefd93d3bc5e1345f06fff3c4123afa94 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4833df32e5c5613e1fbbf0e1577250311f9cd34 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d0a9899602526b249582c8083c147b7c8437025 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77f21b6e83d73d0065ae1206ab28f010377c6651 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7d85fe5e0226b6379033c8b2ab4cf9930edd0d8 </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7cb18b201a796fdbd6077baf8e57cad12d44241 </link>
 <thumbnail>https://image.tmdb.org/t/p/w342/hAbyx9aDHPrjAVeublzsJ3kFTBv.jpg</thumbnail>
 <genre></genre>
 </item>
