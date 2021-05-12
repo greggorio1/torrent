@@ -21,12 +21,51 @@
 </item>
 
 
+
 <item>
-<title>[COLOR yellow][B]4° Temporada [/B][/COLOR] [B]Legendado[/B]</title>
+<title>[COLOR red][B]>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>[/B][/COLOR] </title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:</link>
+<thumbnail></thumbnail>
+<info></info>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B]4° Temporada [/B][/COLOR] </title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/i7eGbUjw721W02ofWEJt4zpiJDp.jpg</thumbnail>
+<info>4K</info>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B]Episodio 01[/B][/COLOR] - [B]Legendado[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e33f78363a2ae4edab1c6941a5ff0784963d3e85</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<info>[I] obs:[/I] Cada plugin é um apisodio</info>
+</item
+
+<item>
+<title>[COLOR white][B]Episodio 02[/B][/COLOR] - [B]Legendado[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f5efcbe382d0c9184e5ce773494702d02259866</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<info>[I] obs:[/I] Cada plugin é um apisodio</info>
+</item
+
+<item>
+<title>[COLOR white][B]Episodio 03[/B][/COLOR] - [B]Legendado[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9295ee6f1ad6530393ec9adca645c196f7d70040</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<info>[I] obs:[/I] Cada plugin é um apisodio</info>
+</item
+
+<item>
+<title>[COLOR white][B]Episodio 04[/B][/COLOR] - [B]Legendado[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8b1281af0a5caa31a71344ed54706e6b45cac51</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
 <info>[I] obs:[/I] Cada plugin é um apisodio</info>
 </item>
+
