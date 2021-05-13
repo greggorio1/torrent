@@ -69,3 +69,10 @@
 <info>[I] obs:[/I] Cada plugin é um apisodio</info>
 </item>
 
+<item>
+<title>[COLOR white][B]Episodio 05[/B][/COLOR] - [B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35d35537b09c5f0fba5686875fab1860d35ac19a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg</thumbnail>
+<info>[I] obs:[/I] Cada plugin é um apisodio</info>
+</item>
+
