@@ -2,12 +2,41 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>
+<thumbnail>https://image.tmdb.org/t/p/w342/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 01[/B][/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65e48880b8e9f263d6b36d8909dadbe7d69bf1ab </link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 02[/B][/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dff6d293ea15f6118c090524826eeb403a9adae </link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 03 ao 08[/B][/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d174c9c2b9a603262da4152335ca65fe93517953 </link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 09[/B][/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97f57a19690b975f3f05c42fd1cee628189f0b7c </link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 10[/B][/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07cc34f40aa04b1fd582d081c315459b2303efa2 </link>
 <thumbnail>https://image.tmdb.org/t/p/w342/dR2RO4MMXPBQ8CaaQB39oGDTsD1.jpg</thumbnail>
 <genre></genre>
-
 </item> 
