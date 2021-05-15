@@ -42,8 +42,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]6ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9791bc45e2c306defe5ff13033f246ee3269e99f$$lsname=Dublado</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07abb6e5270d55d5758dfb3ff7ad3c572cfaa1a9$$lsname=Legendado</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9791bc45e2c306defe5ff13033f246ee3269e99f</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/bNokbmiv51w5iICpGPLIMPBuHR8.jpg</thumbnail>
 <genre></genre>
 </item> 
