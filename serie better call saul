@@ -31,19 +31,93 @@
 <genre></genre>
 </item> 
 
+<item>
+<title>[COLOR cyan][B]------------------------------------[/B][/COLOR] </title>
+<thumbnail>https://image.tmdb.org/t/p/w342/e8ntXD3siE0NAYwnTGncwKpIGLz.jpg</thumbnail>
+</item>
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]5ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b$$lsname=Episodio 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f$$lsname=Episodio 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d56c541d41b1eb255d243c60bae201241d73da9d$$lsname=Episodio 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d56c541d41b1eb255d243c60bae201241d73da9d$$lsname=Episodio 4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2b100da02f455e3f1e5e10e20d11284e25896fd$$lsname=Episodio 5</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5$$lsname=Episodio 6</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5a336da9e78960f8ff1bcc90625417c0fb644fa$$lsname=Episodio 7</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8b9472a5ca0debde73f9d50e58650740ca57d9$$lsname=Episodio 8</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394488aa8f4cb8413ec513c66126c931d78d9a8d$$lsname=Episodio 9</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06b9711c96d2ce4648c53f08bf946c81d10e0a1a$$lsname=Episodio 10</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 01[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e20ddfcfbfa14489f7748d0b81fd6a6f035e8a7b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 02[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5f96e9a8fb1f92c4d12dad062bd42c75fe5121f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR white][B]Episodio 03[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d56c541d41b1eb255d243c60bae201241d73da9d</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR white][B]Episodio 04[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d56c541d41b1eb255d243c60bae201241d73da9d</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR white][B]Episodio 05[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2b100da02f455e3f1e5e10e20d11284e25896fd</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR white][B]Episodio 06[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff34d03ab84aa49ab8c7d5214ffa25c31cf7f2d5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR white][B]Episodio 07[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5a336da9e78960f8ff1bcc90625417c0fb644fa</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR white][B]Episodio 08[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a8b9472a5ca0debde73f9d50e58650740ca57d9</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR white][B]Episodio 09[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394488aa8f4cb8413ec513c66126c931d78d9a8d</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+
+<item>
+<title>[COLOR white][B]Episodio 10[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06b9711c96d2ce4648c53f08bf946c81d10e0a1a</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sf9ojuuhExU3GegmGxdrC4TrcJv.jpg</thumbnail>
 <genre></genre>
 </item> 
