@@ -7,8 +7,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]1ª Temporada [/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e083be9dc3c93b3f9031fd4f40a69d53ebec8710$$lsname=[COLOR yellow]720p[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8268aa3f67fda9fa55adc8aa04e5d33dd29b1a18$$lsname=[COLOR yellow]4K[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e083be9dc3c93b3f9031fd4f40a69d53ebec8710</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/iE5pD5k12BSHIHiOZj69uqaC1e4.jpg</thumbnail>
 <genre></genre>
 
