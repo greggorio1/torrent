@@ -17,9 +17,26 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
+<title>[COLOR cyan][B]------------------------------------[/B][/COLOR] </title>
+<thumbnail>https://image.tmdb.org/t/p/w342/e8ntXD3siE0NAYwnTGncwKpIGLz.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e6afc300873bb35fec87635b04557c03e36f8bf$$lsname=Episodio 1 AO 4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c03b30567f5a5177b00001d61a305b185033d056$$lsname=Episodio 5 AO 10</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xZwk4DRVwG4fXB2DIkpx79Vf3wJ.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 01 ao 04[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e6afc300873bb35fec87635b04557c03e36f8bf</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xZwk4DRVwG4fXB2DIkpx79Vf3wJ.jpg</thumbnail>
+<genre></genre>
+</item> 
+
+<item>
+<title>[COLOR white][B]Episodio 05 ao 10[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c03b30567f5a5177b00001d61a305b185033d056</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/xZwk4DRVwG4fXB2DIkpx79Vf3wJ.jpg</thumbnail>
 <genre></genre>
 </item> 
