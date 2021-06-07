@@ -6,3 +6,10 @@
 <info> 
 [I] [/I]</info>
 </item>
+
+
+<item>
+<title>[COLOR yellow][B]Velozes & Furiosos 8[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4005d8cfe724725de1cb4fcb75e72295edff41a0</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/38RVo4cX1O7Ia6k9WXcxkxprHm.jpg</thumbnail>
+</item>
